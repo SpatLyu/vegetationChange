@@ -25,7 +25,7 @@ DOI={10.1029/2024jg008297},
 number={10}, 
 journal={Journal of Geophysical Research: Biogeosciences}, 
 publisher={American Geophysical Union (AGU)}, 
-author={Lv, Wen‐Bo and Liu, Fang‐Mei and Cai, Kai and Cao, Yue and Deng, Meng‐Ling and Liang, Wei and Yan, Jian‐Wu and Wang, Guang‐Yu}, year
-={2024}
+author={Lv, Wen‐Bo and Liu, Fang‐Mei and Cai, Kai and Cao, Yue and Deng, Meng‐Ling and Liang, Wei and Yan, Jian‐Wu and Wang, Guang‐Yu}, 
+year={2024}
 }
 ```
