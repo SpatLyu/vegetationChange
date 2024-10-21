@@ -13,7 +13,7 @@ Please cite as:
 > Lv, W.‐B., Liu, F.‐M., Cai, K., Cao, Y.,Deng, M.‐L., Liang, W., et al. (2024).
 Distinguishing the impacts and gradient effects of climate change and human
 activities on vegetation cover in the Weihe River Basin, China.
-> *Journal of Geophysical Research: Biogeosciences*.*129*, e2024JG008297.
+> *Journal of Geophysical Research: Biogeosciences*,*129*, e2024JG008297.
 > <https://doi.org/10.1029/2024JG008297>.
 
 A BibTeX entry for LaTeX users is:
