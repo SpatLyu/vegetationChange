@@ -12,7 +12,7 @@ Please cite as:
 A BibTeX entry for LaTeX users is:
 
 ``` bib
-@article{Lv_2024, 
+@article{lyu2024veg, 
 title={Distinguishing the Impacts and Gradient Effects of Climate Change and Human Activities on Vegetation Cover in the Weihe River Basin, China}, 
 volume={129}, 
 ISSN={2169-8961}, 
